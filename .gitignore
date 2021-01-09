@@ -1,0 +1,14 @@
+.tox
+.vscode
+*.pyc
+__pycache__/
+tests.xml
+*.tsv
+*.csv
+*.json
+!examples/*/*
+!workflow-files/*
+.DS_Store
+venv/
+env/
+*.egg-info
